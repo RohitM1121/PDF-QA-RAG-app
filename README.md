@@ -12,7 +12,7 @@ A Streamlit web application that allows users to upload PDF documents and ask qu
 ## 🚀 Deployed Application
 
 You can access the live version of this application here:
-**[Link to your Streamlit Cloud App]((https://pdf-app-rag-app-cncrtsdgyhragn4hcvfuss.streamlit.app/))**
+[Link to your Streamlit Cloud App](https://pdf-app-rag-app-cncrtsdgyhragn4hcvfuss.streamlit.app/)
 
 
 ## 🛠️ Technologies Used
